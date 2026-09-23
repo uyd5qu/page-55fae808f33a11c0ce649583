@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d351a744b1a5aaa6aa1928e1",
+  "owner": "uyd5qu",
+  "repo": "page-55fae808f33a11c0ce649583",
+  "title": "快车道",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "55fae808f33a11c0ce649583",
+      "a": "快车道",
+      "b": "稳定全球clash加速器",
+      "entity": "快车道",
+      "brand": "快车道",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "35a14554ab45777fcb7a726c9c1fd128f2ceab47d18270274fc006b174281b7b",
+      "content": {
+        "primary_entity": "快车道",
+        "keyword1": "快车道",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，快车道提供多档跨境网络加速方案，覆盖基础版、旗舰版与团队版。基础版每月15元含100GB流量，支持3台设备；旗舰版每月35元含300GB流量，支持5台设备并优化游戏专线；团队版每月85元含1000GB流量，支持20台设备与定制路由。按年付可享优惠价格，适合个人与团队按设备数灵活挑选。",
+          "AI_HERO_SUBTITLE": "快车道多设备加速方案",
+          "AI_HERO_INTRO": "快车道提供面向个人与团队的跨境网络加速服务，通过基础版、旗舰版和团队版三档套餐覆盖不同流量与设备需求。每个套餐明确标注月费、年付价格、流量上限与在线设备数量，方便按使用强度选择。",
+          "AI_VISUAL_TITLE": "快车道套餐速览",
+          "AI_HIGHLIGHT_1": "基础版每月15元，含100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版每月35元，支持5台设备",
+          "AI_HIGHLIGHT_3": "团队版每月85元，20台设备在线",
+          "AI_FEATURES_TITLE": "套餐与设备适配",
+          "AI_FEATURES_INTRO": "根据流量、设备数与使用场景选择快车道套餐。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版最多20台设备同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量需求选档",
+          "AI_FEATURE_TEXT_2": "每月100GB、300GB、1000GB三档流量，按个人或团队用量匹配。",
+          "AI_FEATURE_TITLE_3": "订阅周期更灵活",
+          "AI_FEATURE_TEXT_3": "支持按月或按年付费，年付方案价格更低，适合长期稳定使用。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLIENTS_INTRO": "快车道可配合多种客户端使用，具体兼容情况以设备系统与客户端版本为准。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版平衡流量与设备，团队版满足多人共享。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "按三步完成快车道订阅与配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量和月流量需求，从基础版、旗舰版或团队版中选定档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端兼容性，准备好订阅所需信息。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中依照文档导入订阅信息，即可连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选择快车道套餐",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定套餐，按年付可享更优价格。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台；团队版每月 1000GB，支持 20 台。按设备数量和每月用量选择即可。",
+          "AI_FAQ_ANSWER_2": "年付比月付更优惠。基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，适合长期稳定使用的用户。",
+          "AI_FAQ_ANSWER_3": "常见客户端支持导入订阅链接。不同系统与版本的操作方式会有差异，建议按照对应客户端的文档完成配置。",
+          "AI_FAQ_ANSWER_4": "同时在线设备数由套餐决定：基础版 3 台、旗舰版 5 台、团队版 20 台。超过数量时新设备可能无法连接，可升级套餐解决。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化与 7x24 优先工单支持；团队版提供 VIP 专属高带宽节点、企业定制路由与专属客户经理服务，适合多人或办公场景。",
+          "AI_FAQ_QUESTION_1": "快车道三档套餐有什么区别？",
+          "AI_FAQ_QUESTION_2": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_3": "如何在不同客户端导入订阅？",
+          "AI_FAQ_QUESTION_4": "同时在线设备数超过限制怎么办？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版有哪些额外权益？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--yfrp2ccybty2kd6m.org",
+    "host": "xn--yfrp2ccybty2kd6m.org"
+  },
+  "file_hashes": {
+    "index.html": "037778ab950720d5ce4aa8312da2112ff29c1d3c3b765538d6475e701e7c9a45",
+    "sitemap.xml": "c460ae8aa67bed1db33db4485ef687dac2a070a06cb79ada2ecfc0d3cc87007f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8ae6761c981ef74e7e297dc329cac68909ed74921c7dbeacbb59817cd756613d",
+    "robots.txt": "58a9fdc2982f2b842c7742d7219bf63a77b5577f89cc10af9df8635f7733a744",
+    "a87bd210543a0edb338602a54a833422.txt": "f6159d90f13a3cdb0b93f07ea685352550c7ce3f086197e1740899b2566270fa"
+  },
+  "revision": "3e0d8d30c132d20c3b7b5b8ec9b24a54f9997ec2c684d938dd06d29ba1baf337"
+}
